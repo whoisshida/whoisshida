@@ -2,12 +2,12 @@
 
 **whoisshida/whoisshida** `README.md` 
 
-My name is Shida, and I Software Engineer as a career changer from higher education.
+My name is Shida, and I am a Software Engineer as a career changer from higher education.
 
 😄 Pronouns She/Her
 
 **Currently Doing**
--  Exploring the world of Mobile Development as a Junior Andorid Developer.
+-  Exploring the world of Mobile Development as a Junior Android Developer.
 
 **Previous Accomplishments**
 
